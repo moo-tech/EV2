@@ -352,11 +352,6 @@ What drives NFT prices on secondary market:
 
 Game economy designed to prevent runaway inflation:
 
-- **Loot Sinks**: High-end content requires resource consumption
-- **Crafting Costs**: NFT minting requires spending currency
-- **Cosmetic Purchases**: Players spend on account-bound cosmetics
-- **Guild Taxation**: Guilds tax members removing currency from circulation
-- **Content Gating**: Expensive raids consume resources
 - **Seasonal Resets**: Economy rebalanced each season
 
 ### Market Transparency
