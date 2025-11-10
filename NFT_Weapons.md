@@ -53,32 +53,26 @@ Weapon performance determined by component combination:
 Components spawn at six rarity levels, with higher tiers commanding premium prices on secondary markets:
 
 ### Common
-- **Stats**: Baseline performance
 - **Cost**: Low (Holocrons)
 - **Market Value**: Minimal
 
 ### Uncommon
-- **Stats**: +5-10% bonuses
 - **Cost**: Low (Holocrons)
 - **Market Value**: Low
 
 ### Rare
-- **Stats**: +10-20% bonuses
 - **Cost**: Moderate (Holocrons)
 - **Market Value**: Moderate
 
 ### Epic
-- **Stats**: +20-30% bonuses
 - **Cost**: High (Holocrons or EV2 Tokens)
 - **Market Value**: High
 
 ### Legendary
-- **Stats**: +30-50% bonuses
 - **Cost**: Very high (EV2 Tokens)
 - **Market Value**: Very High
 
 ### Exotic
-- **Stats**: +50%+ bonuses with unique effects
 - **Cost**: Premium (EV2 Tokens, tournament rewards)
 - **Market Value**: Extreme
 
@@ -95,11 +89,6 @@ Components spawn at six rarity levels, with higher tiers commanding premium pric
 ### Purchasing with Currency
 - **Holocrons** (Free-to-Earn): Purchase Common, Uncommon, Rare components
 - **EV2 Tokens** (Purchased/Won): Purchase Epic, Legendary, Exotic components
-
-### Crafting
-Combine six components to craft a complete weapon:
-- Each component remains a separate NFT
-- Future: EIP-998 composable NFTs to bundle 6 components into single weapon NFT
 
 ### Secondary Market Trading
 - Trade individual components on blockchain marketplaces
@@ -143,7 +132,7 @@ Each suit has **specific weapon compatibility**, creating distinct NFT markets:
 
 Weapon mastery progression is **account-bound** (NOT an NFT):
 - **XP System**: Weapons gain XP through usage
-- **Mastery Bonuses**: Unlocks handling improvements, reload speed, aim assist
+- **Mastery Bonuses**: Unlocks different weapon part types, handling improvements, and aim assist
 - **Persistent**: Mastery progress stays with your account, not the NFT
 
 ---
@@ -168,13 +157,7 @@ Weapon mastery progression is **account-bound** (NOT an NFT):
 
 ### Meta-Driven Pricing
 - Component prices fluctuate based on PvP/PvE meta
-- Popular damage types (e.g., Armor Buster in tank-heavy meta) command premium prices
 - Suit-specific components create niche markets
-
-### Build Optimization
-- Min-maxers pay premium for perfect component combinations
-- "God rolls" (perfect stat combos) can be worth 10x+ normal components
-- Flexibility: Swap components to adapt to meta shifts without buying new weapons
 
 ### Investment Strategy
 - Early adopters can profit by identifying meta shifts
