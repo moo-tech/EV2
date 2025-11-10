@@ -42,32 +42,32 @@ EV2's gear system consists of **5 lootable armor pieces** that are tradeable NFT
 Gear pieces spawn at six rarity levels, with stat bonuses scaling dramatically:
 
 ### Common
-- **Stats**: Minimal bonuses (~1-2%)
+- **Cosmetics**: Basic
 - **Cost**: Free (Holocrons)
 - **Market Value**: Minimal
 
 ### Uncommon
-- **Stats**: Low bonuses (~2-3%)
+- **Cosmetics**: rather poor
 - **Cost**: Low (Holocrons)
 - **Market Value**: Low
 
 ### Rare
-- **Stats**: Moderate bonuses (~3-5%)
+- **Cosmetics**: Moderate appearance
 - **Cost**: Moderate (Holocrons)
 - **Market Value**: Moderate
 
 ### Epic
-- **Stats**: Significant bonuses (5-10% range)
+- **Cosmetics**: Significant visual improvements with VFX
 - **Cost**: High (Holocrons or EV2 Tokens)
 - **Market Value**: High
 
 ### Legendary
-- **Stats**: Major bonuses (10-20% range)
+- **Cosmetics**: Major visual details with VFX
 - **Cost**: Very high (EV2 Tokens)
 - **Market Value**: Very High
 
 ### Exotic
-- **Stats**: Exceptional bonuses (20-40% range, unique perks)
+- **Cosmetics**: Exceptional visual details with VFX
 - **Cost**: Premium (EV2 Tokens, tournament rewards)
 - **Market Value**: Extreme
 
