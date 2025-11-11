@@ -39,7 +39,7 @@ EV2's gear system consists of **5 lootable armor pieces** that are tradeable NFT
 
 ## Rarity Tiers & NFT Value
 
-Gear pieces spawn at six rarity levels, with stat bonuses scaling dramatically:
+Gear pieces spawn at six rarity levels:
 
 ### Common
 - **Cosmetic**: Basic quality
@@ -77,7 +77,6 @@ Gear pieces spawn at six rarity levels, with stat bonuses scaling dramatically:
 
 ### Looting (Primary Method)
 - **Enemy Drops**: Kill enemies to loot random gear pieces
-- **Player Drops** (PvP): Loot defeated players for gear (risk: losing common gear if killed)
 - **Boss Rewards**: Rare/Epic/Legendary gear from challenging encounters
 - **Event Rewards**: Limited-time events distribute Exotic gear
 - **Raid Drops**: 6-player raids offer highest-tier gear
@@ -150,7 +149,7 @@ Players have a **200-slot inventory** to store gear:
 
 ## Cosmetic Customization
 
-Gear pieces can be visually customized without affecting stats:
+Gear pieces can be visually customized:
 - **Skins**: Apply cosmetic skins via battle pass or achievements
 - **Chroma Colors**: Visual color themes ([NFT Chroma Skins](NFT_Chroma_Skins.md))
 - **Stat Preservation**: Skins are purely visual; stats unchanged
